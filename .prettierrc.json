@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": false,
+  "html.format.wrapLineLength": 0,
+  "prettier.printWidth": 300,
+  "prettier.disableLanguages": ["html", "js", "css"]
+}
